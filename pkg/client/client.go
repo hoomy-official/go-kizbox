@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"net/url"
 
-	v1 "github.com/merlindorin/go-kizbox/pkg/api/v1"
+	v1 "github.com/hoomy-official/go-kizbox/pkg/api/v1"
 	"github.com/vanyda-official/go-shared/pkg/net/do"
 	"github.com/vanyda-official/go-shared/pkg/net/rest"
 )

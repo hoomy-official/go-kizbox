@@ -1,4 +1,4 @@
-module github.com/merlindorin/go-kizbox
+module github.com/hoomy-official/go-kizbox
 
 go 1.21
 
